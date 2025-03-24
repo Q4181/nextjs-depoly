@@ -1,0 +1,30 @@
+body{
+  padding: 35px;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  background-color: rgb(172, 119, 233);
+  color: #f0f0f0;
+}
+p{
+  font-family: verdana;
+  font-size: px
+ 
+}
+h1{
+  color: #d61212;
+  font-style: italic;
+}
+ul{
+  font-size: 20px
+}
+h4{
+  font-size: 15px
+  
+}
+
+ img{
+  border: 5px solid #fffdfd;
+  border-radius: 15px;
+  width: 400px;
+  height: 350px;
+}
